@@ -1,0 +1,3 @@
+[submodule "gix-wordpress-docker-compose"]
+	path = gix-wordpress-docker-compose
+	url = git@github.com:GuillaumeIsabelleX/gix-wordpress-docker-compose.git

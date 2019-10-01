@@ -1,3 +1,6 @@
 [submodule "gix-wordpress-docker-compose"]
 	path = gix-wordpress-docker-compose
 	url = git@github.com:GuillaumeIsabelleX/gix-wordpress-docker-compose.git
+[submodule "gix-lamp"]
+	path = gix-lamp
+	url = git@github.com:GuillaumeIsabelleX/docker-compose-lamp.git
